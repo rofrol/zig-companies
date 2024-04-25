@@ -10,6 +10,8 @@ A list of companies using Zig in production.
 - Fulcrum: https://github.com/fulcrum-so
 - Turso: https://turso.tech/blog/zig-helped-us-move-data-to-the-edge-here-are-our-impressions-67d3a9c45af4
 - Ameli: https://github.com/bfactory-ai/zignal
+- Axiom: https://github.com/axiomhq/zig-hyperloglog
+- Midstall Software: https://github.com/MidstallSoftware
 
 ## Inspired by
 
