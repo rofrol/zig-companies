@@ -18,10 +18,11 @@ A list of companies using Zig in production. ([discussion](https://ziggit.dev/t/
 - Syndica: https://blog.syndica.io/introducing-sig-by-syndica-an-rps-focused-solana-validator-client-written-in-zig/
 - StarkNet: https://www.starknet.io/en [1](https://github.com/keep-starknet-strange/ziggy-starkdust)
 
-## Not companies but significant projects related to companies
+## Not companies but related
 
 - Mach: https://github.com/hexops
 - Roc: https://github.com/roc-lang/roc/tree/main/crates/compiler/builtins/bitcode
+- Zig Foundation: https://ziglang.org/zsf/ employs couple of developers
 
 ## Inspired by
 
