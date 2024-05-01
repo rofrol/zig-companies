@@ -8,7 +8,7 @@ List of commercial companies and non-profit organizations using Zig in productio
 - [Axiom](https://axiom.co/) — [GitHub](https://github.com/axiomhq/zig-hyperloglog)
 - [Bun](https://bun.sh/) — [GitHub](https://github.com/oven-sh/bun)
 - [DNEG](https://www.dneg.com/) — [GitHub](https://github.com/dneg) | [Video presentation 1](https://www.youtube.com/watch?v=xUInj_nEcEg) | [Video presentation 2](https://www.youtube.com/watch?v=MhzWE2z4fjA)
-- [Fulcrum Labs](https://fulcrum.so/) — [GitHub](https://github.com/fulcrum-so)
+- [Spiral](https://spiraldb.com) — [GitHub](https://github.com/spiraldb)
 - [Starknet](https://www.starknet.io/en) — [GitHub](https://github.com/keep-starknet-strange/ziggy-starkdust)
 - [Syndica](https://syndica.io/) — [Blog post](https://blog.syndica.io/introducing-sig-by-syndica-an-rps-focused-solana-validator-client-written-in-zig/)
 - [TigerBeetle](https://tigerbeetle.com/) — [GitHub](https://github.com/tigerbeetle/tigerbeetle)
