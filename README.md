@@ -16,6 +16,7 @@ List of commercial companies and non-profit organizations using Zig in productio
 - [Tuple](https://tuple.app/) — [GitHub](https://github.com/tupleapp)
 - [Turso](https://turso.tech/blog/zig-helped-us-move-data-to-the-edge-here-are-our-impressions-67d3a9c45af4) — [GitHub](https://github.com/tursodatabase/pg_turso)
 - [ZML](https://zml.ai/) — [GitHub](https://github.com/zml)
+- [Dylibso](https://dylib.so/) — [GitHub](https://github.com/extism?q=&type=source&language=zig)
 
 ## Commercial companies using the Zig build system in production
 
