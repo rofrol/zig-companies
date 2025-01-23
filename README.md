@@ -37,3 +37,7 @@ List of commercial companies and non-profit organizations using Zig in productio
 - [Natalie Vais' Zig Companies Twitter post](https://twitter.com/natalievais/status/1769845939605250084)
 - [Rust in Production GitHub repo](https://github.com/ImplFerris/rust-in-production)
 - [Rust Companies GitHub repo](https://github.com/omarabid/rust-companies)
+
+## TODO
+
+- https://linuxlock.org/blog/companies-using-zig/
